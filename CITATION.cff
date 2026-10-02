@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use or reference this physics-informed graph dynamics engine, please cite it as below."
+authors:
+  - family-names: "Thomas"
+    given-names: "Tess"
+title: "Physics-Informed Graph Neural Network & Particle Dynamics Engine"
+version: 0.1.0
+date-released: 2026-10-02
+url: "https://github.com/tess2005/pignn-mechanics-engine"
